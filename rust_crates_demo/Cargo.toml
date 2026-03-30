@@ -1,0 +1,11 @@
+[workspace]
+resolver="3"
+members = ["add_one","adder"]
+
+[package]
+name = "rust_crates_demo"
+license = "MIT or Apache-2.0"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
